@@ -1,1 +1,1 @@
-# uptime.js
+UwU
